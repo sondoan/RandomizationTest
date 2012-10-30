@@ -1,0 +1,5 @@
+Randomization test for NER problem 
+
+Run: 
+python ./SigTest_MultiClass.py < ../outputs/i2b2-major-voting.txt
+
